@@ -1,3 +1,3 @@
 # html-css
- Estudo de html e css com GustavaGuanabara
+ Estudo de HTML5 e CSS3 com GustavaGuanabara
  
