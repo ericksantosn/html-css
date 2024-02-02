@@ -1,0 +1,47 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moirai+One&display=swap');
+@font-face {
+    font-family:'psyco';
+    src: url('fontes/NarniaBLL.ttf') 
+    format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+        }
+* {
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+h2 {
+    text-shadow: 1px 1px 4px #563959 ;
+    font-family: 'Moirai One', system-ui;
+    font-size: 170%;
+    font-weight: bolder;
+    color: #8C3B77;
+}
+h1 {
+    font-family: 'Bungee Spice', sans-serif;
+    text-align: center;
+    color: #563959;
+    text-shadow: 10px 10px 9px #f2d0d0;
+}
+p {
+    color: rgb(0, 0, 0);
+    text-shadow: 2px, 1x, 3px, rgba(0, 0, 0, 0.986);
+    font-family: 'psyco';
+    font-weight: 600;
+    font-size: 140%;
+    text-align: justify;
+}
+body {
+    background-image: linear-gradient(to right , #D98299 ,#F2D0D0);
+}
+main{
+    box-shadow: 6px 6px 18px #0d0d0d9a;
+    border-radius: 14px;
+    width: 800px;
+    padding: 10px;
+    background-color: white;
+    margin: auto;
+}
